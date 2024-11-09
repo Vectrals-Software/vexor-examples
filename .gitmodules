@@ -1,0 +1,6 @@
+[submodule "vexor-checkout-nextjs"]
+	path = vexor-checkout-nextjs
+	url = https://github.com/Vectrals-Software/vexor-checkout-nextjs.git
+[submodule "vexor-subscriptions-nextjs"]
+	path = vexor-subscriptions-nextjs
+	url = https://github.com/Vectrals-Software/vexor-subscriptions-nextjs.git
