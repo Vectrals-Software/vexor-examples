@@ -4,3 +4,6 @@
 [submodule "vexor-subscriptions-nextjs"]
 	path = vexor-subscriptions-nextjs
 	url = https://github.com/Vectrals-Software/vexor-subscriptions-nextjs.git
+[submodule "vexor-marketplace-nextjs"]
+	path = vexor-marketplace-nextjs
+	url = https://github.com/Vectrals-Software/vexor-marketplace-nextjs.git
